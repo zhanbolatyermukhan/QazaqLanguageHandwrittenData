@@ -1,6 +1,6 @@
 # QazaqLanguageHandwrittenData
 
-  This repository was created for public use
+  This repository was created for public use.
   
   Here's a collection of Handwritten data in the Kazakh language. 
   
